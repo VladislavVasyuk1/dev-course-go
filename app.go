@@ -11,7 +11,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func handlerNames(w http.ResponseWriter, r *http.Request) {
-        fmt.Fprintln(w, "Vlada, Vlad")
+        fmt.Fprintln(w, "Vlada V, Vlad")
 }
 
 
